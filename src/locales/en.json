@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Are you starving?",
+    "description": "Within a few clicks, find meals that are accessible near you",
+    "delivery": "Delivery",
+    "pickup": "Pickup",
+    "placeholder": "Enter address",
+    "find": "Find Food",
+    "login": "Login"
+  },
+  "section1": {
+    "productTitle": "Greys Vage",
+    "remaining": "6 Days Remaining",
+    "howTitle": "How does it work",
+    "cardTitle": "Select location",
+    "cardTitle2": "Choose order",
+    "cardTitle3": "Pay advanced",
+    "cardTitle4": "Enjoy meals",
+    "cardText": "Choose the location where your food will be delivered"
+  },
+  "section2": {
+    "popularTitle": "Popular items",
+    "searchTitle": "Search by Food",
+    "quickDelivery": "Quick Delivery",
+    "dealsTitle1": "Best deals",
+    "dealsTitle2": "Crispy Sandwiches",
+    "dealsText1": "Enjoy the large size of sandwiches. Complete with vegetables and sauces.",
+    "dealsTitle3": "Celebrate parties with",
+    "dealsTitle4": "Fried Chicken",
+    "dealsText2": "Get the best fried chicken in town. Fast delivery and quality assured.",
+    "proceed": "Proceed to order",
+    "food": {
+      "pizza": "Pizza",
+      "burger": "Burger",
+      "noodles": "Noodles",
+      "subsandwich": "Sub-sandwich",
+      "chowmein": "Chowmein",
+      "steak": "Steak"
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "branding": "Branding",
+    "design": "Design",
+    "marketing": "Marketing",
+    "ads": "Advertisement",
+    "contact": "Contact",
+    "about": "About us",
+    "contactUs": "Contact",
+    "jobs": "Jobs",
+    "press": "Press kit",
+    "legal": "Legal",
+    "terms": "Terms of use",
+    "privacy": "Privacy policy",
+    "cookies": "Cookie policy",
+    "newsletter": "Newsletter",
+    "emailLabel": "Enter your email address",
+    "subscribe": "Subscribe"
+  }
+}

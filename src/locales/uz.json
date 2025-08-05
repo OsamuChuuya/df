@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Och qoldingizmi?",
+    "description": "Atigi bir necha bosishda yaqin atrofdagi ovqatlarni toping",
+    "delivery": "Yetkazib berish",
+    "pickup": "Olib ketish",
+    "placeholder": "Manzilni kiriting",
+    "find": "Ovqat topish",
+    "login": "Kirish"
+  },
+  "section1": {
+    "productTitle": "Greys sabzavotlari",
+    "remaining": "Yana 6 kun qoldi",
+    "howTitle": "Qanday ishlaydi",
+    "cardTitle": "Manzilni tanlang",
+    "cardTitle2": "Buyurtmani tanlang",
+    "cardTitle3": "Oldindan to‘lov qiling",
+    "cardTitle4": "Taomdan bahramand bo‘ling",
+    "cardText": "Ovqat qayerga yetkazilishini tanlang"
+  },
+  "section2": {
+    "popularTitle": "Ommabop taomlar",
+    "searchTitle": "Taomlar bo‘yicha qidirish",
+    "quickDelivery": "Tez yetkazib berish",
+    "dealsTitle1": "Eng yaxshi takliflar",
+    "dealsTitle2": "Xirillagan sendvichlar",
+    "dealsText1": "Sabzavot va souslar bilan katta hajmli sendvichlardan bahra oling.",
+    "dealsTitle3": "Bayramlarni nishonlang",
+    "dealsTitle4": "Qovurilgan tovuq bilan",
+    "dealsText2": "Shahardagi eng yaxshi qovurilgan tovuq. Tez yetkazib berish va sifat kafolatlangan.",
+    "proceed": "Buyurtma berish",
+    "food": {
+      "pizza": "Pitsa",
+      "burger": "Burger",
+      "noodles": "Lag'mon",
+      "subsandwich": "Sendvich",
+      "chowmein": "Chowmein",
+      "steak": "Steyk"
+    }
+  },
+  "footer": {
+    "company": "Kompaniya",
+    "branding": "Brending",
+    "design": "Dizayn",
+    "marketing": "Marketing",
+    "ads": "Reklama",
+    "contact": "Aloqa",
+    "about": "Biz haqimizda",
+    "contactUs": "Bog‘lanish",
+    "jobs": "Ish o‘rinlari",
+    "press": "Matbuot to‘plami",
+    "legal": "Yuridik",
+    "terms": "Foydalanish shartlari",
+    "privacy": "Maxfiylik siyosati",
+    "cookies": "Cookie fayllar",
+    "newsletter": "Yangiliklar obunasi",
+    "emailLabel": "Email manzilingizni kiriting",
+    "subscribe": "Obuna bo‘lish"
+  }
+}
