@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/LOGO.png'
+import logo from '../assets/Logo.png'
 import ramen from '../assets/ramen.png'
 import { useTranslation } from 'react-i18next'
 
